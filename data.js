@@ -1,4 +1,4 @@
-// Comprehensive Mood Database
+
 const moodDatabase = {
     happy: {
         movies: [

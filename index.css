@@ -161,7 +161,6 @@ button:disabled {
     to { opacity: 1; transform: translateY(0); }
 }
 
-/* Mood Analysis */
 .mood-analysis {
     background: linear-gradient(135deg, #667eea15, #764ba215);
     padding: 20px;
@@ -227,7 +226,6 @@ button:disabled {
     line-height: 1.6;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .container {
         padding: 20px;
